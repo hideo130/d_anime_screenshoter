@@ -1,0 +1,12 @@
+{
+    "name": "D anime store screenshoter",
+    "version": "1.0",
+    "manifest_version": 3,
+
+    "isAllowedFileSchemeAccess": "True",
+    "permissions":[
+        "tabs",
+        "https://anime.dmkt-sp.jp/animestore/tp_pc*",
+        "http://localhost:5612/"
+    ]
+}
